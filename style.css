@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+   
     
 }
 h1{
@@ -30,6 +31,7 @@ padding-left: 5%;
 .top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+   
     
 }
 .flex{
@@ -46,7 +48,7 @@ padding-left: 5%;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-
+margin-top: 100px;
 }
 .link2{
     text-decoration: none;
