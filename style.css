@@ -22,7 +22,7 @@ padding-left: 5%;
 }
 .link{
     text-decoration: none;
-    background-image: linear-gradient(rgba(228, 100, 50, 0.829) , rgba(189, 60, 60, 0.801));
+    background-image: linear-gradient(rgba(241, 68, 0, 0.829) , rgba(238, 0, 0, 0.801));
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
@@ -48,11 +48,11 @@ padding-left: 5%;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-margin-top: 100px;
+margin-top: 15%;
 }
 .link2{
     text-decoration: none;
-    background-image: linear-gradient(rgba(248, 37, 0, 0.479),rgba(226, 159, 72, 0.863));
+    background-image: linear-gradient(rgba(255, 41, 4, 0.623),rgba(166, 255, 0, 0.863));
     padding: 10px 20px;
     border-radius: 5px;
 }
