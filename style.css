@@ -9,7 +9,7 @@ h1{
 .n{
     color: orange;
 }
-section{
+flex{
     display: flex;
 }
 .f{
@@ -32,7 +32,7 @@ padding-left: 5%;
     background-repeat: no-repeat;
     
 }
-.section{
+.flex{
     display: flex;
 }
 .oo{
@@ -53,4 +53,23 @@ padding-left: 5%;
     background-image: linear-gradient(rgba(248, 37, 0, 0.479),rgba(226, 159, 72, 0.863));
     padding: 10px 20px;
     border-radius: 5px;
+}
+.orange{
+    color: orange;
+}
+.top3{
+    margin-bottom: 100px;
+    padding-left: 20px;
+}
+.ex{
+    width:40%;margin-left: 5%;
+    margin-right: 5px;
+    padding-left: 10px;
+    box-shadow: 10px 10px 50px rgb(122, 120, 117);
+    
+}
+.top3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
